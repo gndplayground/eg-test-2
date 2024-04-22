@@ -21,21 +21,22 @@ Từ việc giả lập delay của network ta sẽ làm UI sát với thực t�
 
 Một vài trạng thái
 
-Loading, nếu có dữ liệu cũ sẽ được làm mờ
+- Loading, nếu có dữ liệu cũ sẽ được làm mờ
 
 ![Login](https://raw.githubusercontent.com/gndplayground/eg-test-2/main/docs/assets/loading.jpeg)
 
-Tìm thấy sản phẩm
+- Tìm thấy sản phẩm
 
 ![Login](https://raw.githubusercontent.com/gndplayground/eg-test-2/main/docs/assets/found-product.jpeg)
 
 
-Không tìm thấy sản phẩm
+- Không tìm thấy sản phẩm
 
 
 ![Login](https://raw.githubusercontent.com/gndplayground/eg-test-2/main/docs/assets/notfound.jpeg)
 
 ### Hiển thị sản phẩm
+
 ![Login](https://raw.githubusercontent.com/gndplayground/eg-test-2/main/docs/assets/product.jpeg)
 
 Sản phẩm được hiển thị theo danh sách. Mỗi sản phẩm sẽ gồm
